@@ -13,12 +13,11 @@
 
 ### Ethereum/Solidity
 * [Ethereum whitepaper (preporuka i za Bitcoin whitepaper)](https://ethereum.org/en/whitepaper/)
-* [Detaljan clanak oko kako eth funkcionise](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
+* [Detaljan clanak oko kako eth funkcionise (How does Ethereum work anyway)](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
 * [Blockchain vs. Bullshit (preporuka za sve talkove istog autora)](https://www.youtube.com/watch?v=SMEOKDVXlUo)
 * [Knjiga o Eterijumu](https://github.com/ethereumbook/ethereumbook)
 * [Solidity docs najbolji resurs o jeziku](https://docs.soliditylang.org/en/v0.8.2/)
 * [Nenadova (Smart Contract Lead) stara reading lista: neke stvari su zastarele (skaliranje i sl.) ali osnove su i dalje ok](https://github.com/yippee-ki-yay/eth-dev-reading-list)
-* [How does Ethereum work anyway](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
 * [What happens when you send 1 DAI - detaljan opis celokupnog procesa jedne transakcije](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai)
  
 ### DeFi
