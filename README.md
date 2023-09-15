@@ -10,6 +10,7 @@
 * [Why Decentralization Matters, Chris Dixon](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e)
 * [Strong and week technologies, Chris Dixon](https://cdixon.org/2019/01/08/strong-and-weak-technologies)
 * [Information Technology Cycles](https://monegro.org/work/2018/2/20/information-technology-market-cycles-a-brief-history)
+* [Why are we here, Erik Voorhees](https://twitter.com/Permissionless/status/1702054516458156126)
 
 ### Ethereum/Solidity
 * [Ethereum whitepaper (preporuka i za Bitcoin whitepaper)](https://ethereum.org/en/whitepaper/)
