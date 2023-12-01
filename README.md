@@ -11,6 +11,7 @@
 * [Strong and week technologies, Chris Dixon](https://cdixon.org/2019/01/08/strong-and-weak-technologies)
 * [Information Technology Cycles](https://monegro.org/work/2018/2/20/information-technology-market-cycles-a-brief-history)
 * [Why are we here, Erik Voorhees](https://twitter.com/Permissionless/status/1702054516458156126)
+* [The Ethereum Investment Framework](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework)
 
 ### Ethereum/Solidity
 * [Ethereum whitepaper (preporuka i za Bitcoin whitepaper)](https://ethereum.org/en/whitepaper/)
