@@ -11,11 +11,12 @@
 * [Strong and week technologies, Chris Dixon](https://cdixon.org/2019/01/08/strong-and-weak-technologies)
 * [Information Technology Cycles](https://monegro.org/work/2018/2/20/information-technology-market-cycles-a-brief-history)
 * [Why are we here, Erik Voorhees](https://twitter.com/Permissionless/status/1702054516458156126)
-* [The Ethereum Investment Framework](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework)
+* [The Ethereum Investment Framework](https://web.archive.org/web/20231204162618/https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework)
+* [The Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 
 ### Ethereum/Solidity
 * [Ethereum whitepaper (preporuka i za Bitcoin whitepaper)](https://ethereum.org/en/whitepaper/)
-* [Detaljan clanak oko kako eth funkcionise (How does Ethereum work anyway)](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
+* [Detaljan clanak oko kako eth funkcionise (How does Ethereum work anyway)](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 * [Blockchain vs. Bullshit (preporuka za sve talkove istog autora)](https://www.youtube.com/watch?v=SMEOKDVXlUo)
 * [Knjiga o Eterijumu](https://github.com/ethereumbook/ethereumbook)
 * [Solidity docs najbolji resurs o jeziku](https://docs.soliditylang.org/en/v0.8.2/)
@@ -28,6 +29,7 @@
 * [Simple DeFi Lending and Borrowing with DeFi Saver](https://www.publish0x.com/defi-saver/simple-defi-lending-and-borrowing-with-defi-saver-xvqlvo)
 * [Defiant: What is DeFi?](https://thedefiant.io/what-is-defi/)
 * [DeFi Prime - projekti i vesti u DeFi svetu](https://defiprime.com/)
+* [DeFi 101](https://www.youtube.com/watch?v=JgzzQ2SBZ50&list=PLaDcID4s1KronHMKojfjwiHL0DdQEPDcq)
 
 ## Preporučene knjige
 * Debugging Teams: Better Productivity through Collaboration - Brian W. Fitzpatrick and Ben Collins-Sussman
