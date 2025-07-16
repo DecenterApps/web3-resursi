@@ -5,12 +5,12 @@
 ### Ideologija, decentralizacija i blokčejn
 * [A Declaration of the Independence of Cyberspace, John P. Barlow](http://editions-hache.com/essais/pdf/barlow1.pdf)
 * [Against an Increasingly User-Hostile Web, Parimal Satyal](https://www.neustadt.fr/essays/against-a-user-hostile-web/)
-* [Bitkoin, banke i suverenost individue, Danilo Backovic](https://medium.com/@dbacko/bitkoin-banke-i-suverenost-individue-9aeaa7177a05)
+* [Bitkoin, banke i suverenost individue, Danilo Backovic](https://medium.com/@dbacko/bitkoin-banke-i-suverenost-individue-9aeaa7177a05) ([alt](https://startit.rs/sve-sto-bi-trebalo-da-znate-o-bitkoinu/))
 * [Beyond the Bitcoin Bubble, Steven Johnson](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html)
-* [Why Decentralization Matters, Chris Dixon](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e)
-* [Strong and week technologies, Chris Dixon](https://cdixon.org/2019/01/08/strong-and-weak-technologies)
+* [Why Decentralization Matters, Chris Dixon](https://cdixon.org/2018/02/18/why-decentralization-matters)
+* [Strong and weak technologies, Chris Dixon](https://cdixon.org/2019/01/08/strong-and-weak-technologies)
 * [Information Technology Cycles](https://monegro.org/work/2018/2/20/information-technology-market-cycles-a-brief-history)
-* [Why are we here, Erik Voorhees](https://twitter.com/Permissionless/status/1702054516458156126)
+* [Why are we here, Erik Voorhees](https://twitter.com/Permissionless/status/1702054516458156126) ([alt](https://www.youtube.com/watch?v=2XlYSmIlpfs)) 
 * [The Ethereum Investment Framework](https://web.archive.org/web/20231204162618/https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework)
 * [The Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 
@@ -19,7 +19,7 @@
 * [Detaljan clanak oko kako eth funkcionise (How does Ethereum work anyway)](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 * [Blockchain vs. Bullshit (preporuka za sve talkove istog autora)](https://www.youtube.com/watch?v=SMEOKDVXlUo)
 * [Knjiga o Eterijumu](https://github.com/ethereumbook/ethereumbook)
-* [Solidity docs najbolji resurs o jeziku](https://docs.soliditylang.org/en/v0.8.2/)
+* [Solidity docs - najbolji resurs o jeziku](https://docs.soliditylang.org/en/v0.8.2/)
 * [Nenadova (Smart Contract Lead) stara reading lista: neke stvari su zastarele (skaliranje i sl.) ali osnove su i dalje ok](https://github.com/yippee-ki-yay/eth-dev-reading-list)
 * [What happens when you send 1 DAI - detaljan opis celokupnog procesa jedne transakcije](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai)
  
